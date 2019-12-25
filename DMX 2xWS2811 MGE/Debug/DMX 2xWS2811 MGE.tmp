@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\Debug\DMX 2xWS2811 MGE.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DMX 2xWS2811 MGE.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DMX 2xWS2811 MGE.map</FILE>
+  <FILE>DMX 2xWS2811 MGE.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>141</LINE></reset>
+  <LED_flash><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>408</LINE></LED_flash>
+  <RX_byte><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>502</LINE></RX_byte>
+  <clear_buffer><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>483</LINE></clear_buffer>
+  <main><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>271</LINE></main>
+  <Channel_start><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>277</LINE></Channel_start>
+  <display_banks><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>300</LINE></display_banks>
+  <start_2811><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>321</LINE></start_2811>
+  <poll_timer><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>393</LINE></poll_timer>
+  <Wait_Transmit><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>400</LINE></Wait_Transmit>
+  <end_channels_2811><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>387</LINE></end_channels_2811>
+  <LED_end><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>476</LINE></LED_end>
+  <LED2_flash><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>424</LINE></LED2_flash>
+  <LED1_flash><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>436</LINE></LED1_flash>
+  <LED2_off><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>432</LINE></LED2_off>
+  <LED1_off><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>444</LINE></LED1_off>
+  <LED_test><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>456</LINE></LED_test>
+  <blanking><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>452</LINE></blanking>
+  <LED_toggle><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>464</LINE></LED_toggle>
+  <clear_l><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>490</LINE></clear_l>
+  <clear_h><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>494</LINE></clear_h>
+  <overrun><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>567</LINE></overrun>
+  <frame_error><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>561</LINE></frame_error>
+  <start_byte><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>523</LINE></start_byte>
+  <start_addr><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>534</LINE></start_addr>
+  <handle_byte><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>542</LINE></handle_byte>
+  <finish_byte><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>519</LINE></finish_byte>
+  <no_change><FILE>C:\Users\Matth\Documents\Atmel Studio\7.0\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE\DMX 2xWS2811 MGE.asm</FILE><LINE>550</LINE></no_change>
+ </LABELS>
+</ASSEMBLER_INFO>
